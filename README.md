@@ -1,16 +1,16 @@
-## Hi there 👋
+ ```bash
+  joao@github:~$ whoami
+  João Paulo — Dev Full Stack & Dados
 
-<!--
-**joaopaulo0611/joaopaulo0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  joao@github:~$ cat stack.txt
+  Frontend : HTML, CSS, JavaScript, React
+  Backend  : Node.js, npm, Python
+  Dados    : Pandas, NumPy, PostgreSQL
+  DevOps   : Docker, Git, Linux
 
-Here are some ideas to get you started:
+  joao@github:~$ echo $STATUS
+  - Técnico em Desenvolvimento de Sistemas
+  - Graduando em Ciência da Dados | 4º semestre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  joao@github:~$ █
+  ```
