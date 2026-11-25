@@ -1,6 +1,6 @@
 ```bash
 joao@github:~$ whoami
-João Paulo — Dev Full Stack & Data
+João Paulo — Softawere Developer & Data
 
 joao@github:~$ cat stack.json
 {
